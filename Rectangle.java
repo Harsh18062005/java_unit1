@@ -17,9 +17,8 @@ class Rectangle{
 */
 
         //Implementation of this Keyword for area of rectangle
-class Rectangle {       
-    int length;
-    int width;
+     
+    
 
     Rectangle(int length, int width) {
         this.length = length;
